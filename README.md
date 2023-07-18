@@ -9,3 +9,5 @@ El proyecto simula la toma de datos de un sistemas eléctrico de 3 nodos (los da
 - Armónico asociado  cada fase.
 - Energía consumida en un periodo de tiempo.
 - Costo de la energía consumida.
+
+[![dash.png](https://i.postimg.cc/jjR6gVcv/dash.png)](https://postimg.cc/zyPRvc9R)
